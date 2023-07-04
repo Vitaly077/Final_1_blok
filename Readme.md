@@ -113,4 +113,4 @@ void PrintArray(string[] array)
 
 5. Скриншот коммитов для подтверждения.
 
->![Screenshot](Screenshot.jpg)
+>![Screenshot](Screenshot.png)
