@@ -27,7 +27,7 @@
 >  P.S. Для удобства проверки разных массивов в программе, я использовал `switch`, функции ввода/вывода в консоль.   
 Они не указаны в блок-схеме.
 
-> ![Diagram.drawio](Diagram.drawio.png)
+ ![Diagram.drawio](Diagram.drawio.png)
 
 3. Вы читаете данный фаил `Readme.md`
 4. Программа находится в ветке [`master`](/FINAL_TEST_GEEKBRAINS/Program.cs "Открыть решение")
@@ -106,4 +106,8 @@ void PrintArray(string[] array)
     Console.Write("] ");
 }
 ```
+
+Результат вывода в терминал:
+
+> ![image_terminal](image_terminal.jpg)
 
