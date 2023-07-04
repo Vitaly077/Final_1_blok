@@ -109,7 +109,7 @@ void PrintArray(string[] array)
 
 Результат вывода в терминал:
 
-> ![image_terminal](image_terminal.jpg)
+> ![Screenshot.terminal](Screenshot.terminal.png)
 
 5. Скриншот коммитов для подтверждения.
 
