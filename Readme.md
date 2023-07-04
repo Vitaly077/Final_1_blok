@@ -111,3 +111,6 @@ void PrintArray(string[] array)
 
 > ![image_terminal](image_terminal.jpg)
 
+5. Скриншот коммитов для подтверждения.
+
+>![Screenshot](Screenshot.jpg)
